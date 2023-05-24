@@ -1,3 +1,4 @@
+// ConcreteClass
 public class Coffee extends Beverage {
     public void brew() {
         System.out.println("Dripping Coffee through filter");
